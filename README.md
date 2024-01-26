@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pawel1gawel
+- 👀 I’m interested in History and Literature
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on querying
+- ⚡ Fun fact: I never thought I will start to learn how to code.. like never
